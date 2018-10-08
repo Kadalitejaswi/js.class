@@ -1,0 +1,37 @@
+[{
+    "name":"john",
+    "age":20,
+    "email":"hgdvhj@gmail.com",
+    "password":"john",
+    "address":{
+        "flatno":147,
+        "street":"P and T colony",
+        "area":"Muncipal colony",
+        "pincode":500103
+    },
+    "family":["Tejaswi","vamsi"]
+},{
+    "name":"john",
+    "age":20,
+    "email":"hgdvhj@gmail.com",
+    "password":"john",
+    "address":{
+        "flatno":147,
+        "street":"P and T colony",
+        "area":"Muncipal colony",
+        "pincode":500103
+    },
+    "family":["Tejaswi","vamsi"]
+},{
+    "name":"john",
+    "age":20,
+    "email":"hgdvhj@gmail.com",
+    "password":"john",
+    "address":{
+        "flatno":147,
+        "street":"P and T colony",
+        "area":"Muncipal colony",
+        "pincode":500103
+    },
+    "family":["Tejaswi","vamsi"]
+}]
